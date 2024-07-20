@@ -23,3 +23,5 @@ Recent work demonstrated Transformers’ ability to efficiently copy strings of 
 }
 ```
 
+## License
+[Apache License 2.0](./LICENSE)
